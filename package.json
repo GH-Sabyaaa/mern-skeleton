@@ -1,0 +1,21 @@
+{
+  "name": "mern-starter-kit",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+ "bin": {
+    "mern-starter-kit": "./index.js"
+  },
+  "keywords": ["mern", "skeleton", "starter", "frontend", "backend", "vite"],
+  "author": "RAUSHAN KUMAR",
+  "license": "MIT",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/Raushan1-kumar/mern-skeleton.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Raushan1-kumar/mern-skeleton/issues"
+  },
+  "homepage": "https://github.com/Raushan1-kumar/mern-skeleton#readme",
+  "type": "commonjs"
+}
